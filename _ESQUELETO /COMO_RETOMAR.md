@@ -5,7 +5,7 @@ Ele recupera o contexto em segundos, sem depender de memória de conversa.
 
 ---
 CONTEXTO [VIS] — [17/11/1926]
-Projeto: [PDI — Plataforma de Doações Incentivadas - Doações diretas para entidades filantrópicas, sociais, culturais e desportivas, com base em legislação vigente.]
+Projeto: [VIS - Vendas por Imagem Seletiva - Método de comercialização de produtos nas redes sociais minimizando ou zerando custos e despesas para inicialização de projetos.]
 Tecnologias: [STACK]
 Fase: [Criação]
 Ambiente: [TESTE / PRODUÇÃO]
